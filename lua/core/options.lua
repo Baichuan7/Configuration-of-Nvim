@@ -5,9 +5,9 @@ opt.relativenumber = true
 opt.number = true
 
 -- identation
-opt.tabstop = 2
-opt.shiftwidth = 2
-opt.expandtab = true
+-- opt.tabstop = 2
+opt.shiftwidth = 4
+-- opt.expandtab = true
 opt.autoindent = true
 -- no wrap
 opt.wrap = false
