@@ -18,7 +18,7 @@ opt.cursorline = true
 -- use mouse
 opt.mouse:append("a")
 
--- system clipboard
+-- system clipboard need xclip in system
 opt.clipboard:append("unnamedplus")
 
 -- search
@@ -29,4 +29,4 @@ opt.smartcase = true
 opt.termguicolors = true
 opt.signcolumn = "yes"
 
-vim.cmd[[colorscheme tokyonight-moon]]
+vim.cmd[[colorscheme tokyonight-night]]
